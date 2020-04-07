@@ -5,7 +5,7 @@ numpy
 matplotlib
 datetime
 seaborn
-scipy.optimize
+scipy
 import warnings
 datetime
 ipywidgets
