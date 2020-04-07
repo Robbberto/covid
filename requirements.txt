@@ -2,7 +2,7 @@ os
 urllib
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 datetime
 seaborn
 scipy.optimize
@@ -11,6 +11,6 @@ datetime
 ipywidgets
 cufflinks
 conda
-mpl_toolkits.basemap
+mpl_toolkits
 sklearn
-chart_studio.plotly
+chart_studio
