@@ -8,6 +8,5 @@ datetime
 ipywidgets
 cufflinks
 conda
-mpl_toolkits.basemap
 sklearn
 chart_studio
