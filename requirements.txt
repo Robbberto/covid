@@ -1,0 +1,16 @@
+os
+urllib
+pandas
+numpy
+matplotlib.pyplot
+datetime
+seaborn
+scipy.optimize
+import warnings
+datetime
+ipywidgets
+cufflinks
+conda
+mpl_toolkits.basemap
+sklearn
+chart_studio.plotly
