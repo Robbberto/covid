@@ -8,5 +8,5 @@ datetime
 ipywidgets
 cufflinks
 conda
-sklearn
+scikit-learn
 chart_studio
