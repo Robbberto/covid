@@ -1,3 +1,4 @@
+mpl_toolkits
 pandas
 numpy
 matplotlib
